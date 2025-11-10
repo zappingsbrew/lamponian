@@ -1,19 +1,18 @@
-# Lamponia
+# Lamponian
 
-it's Lampo but it work
+it's Lamponia but it work
 
 # Features
 
 - Uses WebNowPlaying for browser and Spotify song info
 
-You might also want to check out [Mondtholomew](https://github.com/reisir/mondtholomew), it's "Mond but it work"!
+You might also want to check out [Mondtholomew](https://github.com/Zappingsbrew/mondtholomewtholomew), it's "Mondtholomew but it work"!
 
 # Usage
 
-Download and install the newest .rmskin package from [releases](https://github.com/reisir/lamponia/releases)
+Download and install the newest .rmskin package from [releases](https://github.com/Zappingsbrew/lamponian/releases)
 
-Can also be installed using [Meters on Demand](https://github.com/meters-on-demand/cli)
+# Credits
 
-```sh
-mond install reisir/lamponia
-```
+[Lamponia](https://github.com/reisir/lamponia) by [@reisir)
+](https://girhub.com/reisir)
