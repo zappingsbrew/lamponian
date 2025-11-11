@@ -14,5 +14,5 @@ Download and install the newest .rmskin package from [releases](https://github.c
 
 # Credits
 
-[Lamponia](https://github.com/reisir/lamponia) by [@reisir)
+[Lamponia](https://github.com/reisir/lamponia) by [@reisir]
 ](https://girhub.com/reisir)
